@@ -82,11 +82,8 @@ to open a window on your desktop — there is no reason for it to be root anyway
 ## Why there is a password
 
 The artwork is [LimeZu's Modern Interiors](https://limezu.itch.io/), which is paid
-and may not be redistributed. Behind the password it is a tool a few people use.
-In front of it, it would be that pack published on the open web.
-
-So: **it is not written down here.** Not in this README, not in the code, not in
-your config file. Ask and you will be told.
+and may not be redistributed. 
+* Just to Avoid "Abuse" .. Nah its just for fun amongs friends :D
 
 **Two ways in, both fine.** Tell your agent the password and `login` types it in
 for you, or leave it out and type it in the browser window yourself — `ready`
@@ -159,6 +156,5 @@ Hand all of it to your agent and it has a room, and the people in it.
 
 ## Licence
 
-The code here is yours to use. **The artwork is not mine to give** — it is LimeZu's
-Modern Interiors. If you want your own copy of the editors to run offline, buy the
-pack and the editors will cut their own palette from it.
+The code here is yours to use. **The artwork is not mine** — it is LimeZu's
+Modern Interiors. 
