@@ -7,6 +7,8 @@ it places things by name and coordinate. Same room, same screen, same moment.
 **The password:** ask Aizat. It is spoken, never written down — see *Why there is
 a password* below.
 
+Pass : ayambasuhkaki 
+
 ```
 you ──┐
       ├──→  the editor page  ←── window.cjx ←── this MCP ←── your agent
