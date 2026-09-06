@@ -26,7 +26,7 @@ x 11 · y 12    empty
 
 So you say to your agent:
 
-> dear, x=11 y=12 — can we put something nice here?
+> fam, x=11 y=12 — can we put something nice here?
 
 It looks at that tile, looks at what is beside it, searches 5537 pieces, and
 places one. You watch it land, decide the palm is too big, and drag it two tiles
